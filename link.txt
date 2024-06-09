@@ -1,2 +1,2 @@
 https://education.yandex.ru/handbook/ml
-https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2Fesokolov%2Fml-course-hse%2Fblob%2Fmaster%2F2020-fall%2Flecture-notes%2Flecture02-linregr.pdf&cc_key=
+https://github.com/esokolov/ml-course-hse
